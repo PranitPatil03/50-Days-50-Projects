@@ -13,5 +13,5 @@ Working on Fundamental and New Things 🙌🤖
 <hr>
 
 <h2>Day 3 Project 3</h2>
-<h3>Theme Clock<a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%202%20P2/">Link</a></h3>
+<h3>Theme Clock <a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%203%20P3/">Link</a></h3>
 

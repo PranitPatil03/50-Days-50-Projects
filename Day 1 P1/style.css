@@ -27,7 +27,7 @@ body{
     flex:0.3;
     margin: 10px;
     position: relative;
-    transition:flex 0.7s ease-in;
+    transition:flex 0.2s ease-in;
     border: 1px dotted black;
 }
 

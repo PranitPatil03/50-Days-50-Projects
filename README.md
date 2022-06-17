@@ -23,4 +23,9 @@ Working on Fundamental and New Things 🙌🤖
 <hr>
 
 <h2>Day 5 Project 5</h2>
-<h3>Notes Application <a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%204%20P4/">Link</a></h3>
+<h3>Notes Application <a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%205%20P5/">Link</a></h3>
+
+<hr>
+
+<h2>Day 6 Project 6</h2>
+<h3>Drink Water <a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%205%20P5/">Link</a></h3>

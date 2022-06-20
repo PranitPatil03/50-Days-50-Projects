@@ -33,5 +33,5 @@ Working on Fundamental and New Things 🙌🤖
 <hr>
 
 <h2>Day 7 Project 7</h2>
-<h3><a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%206%20P6/">Link</a></h3>
+<h3>3D Background Effect<a href="https://pranitpatil03.github.io/50-Days-50-Projects/Day%207%20P7/">Link</a></h3>
 
